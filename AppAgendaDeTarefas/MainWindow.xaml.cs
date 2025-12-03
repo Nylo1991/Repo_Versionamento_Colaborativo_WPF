@@ -70,6 +70,13 @@ public partial class MainWindow : Window
         // Verifica se existe uma tarefa selecionada
         if (ListaTarefas.SelectedItem != null)
         {
+            // VALIDAÇÃO ADICIONADA: Verifica se o campo de texto não está vazio
+            if (string.IsNullOrWhiteSpace(TxtTarefa.Text))
+            {
+                MessageBox.Show("Digite um texto válido para editar a tarefa!", "Campo Vazio");
+                return; // Sai do método se o campo estiver vazio
+            }
+
             // Pega o índice do item selecionado
             int index = ListaTarefas.SelectedIndex;
 
