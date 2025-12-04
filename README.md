@@ -79,6 +79,8 @@ Cada aluno deverá implementar **uma** das funcionalidades abaixo, seguindo a nu
 | Marilene | 6 |Implementação da funcionalidade permitir mover tarefa para cima (up) | Ok |
 | Luis Ivan | 7 |Implementação da funcionalidade permitir mover tarefa para baixo (Down) | Ok |
 | Maycon | 8 |Implementação da funcionalidade de marcar tarefa como concluida com Check | Ok |
-
+| Yhan | 9 |Implementação da funcionalidade de  Exportar lista de tarefas para arquivo TXT | Ok |
+| Yhan | 10 |Implementação da funcionalidade de Importar lista de tarefas de arquivo TXT | Ok |
 
 ---
+
