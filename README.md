@@ -83,9 +83,11 @@ Cada aluno deverá implementar **uma** das funcionalidades abaixo, seguindo a nu
 | Yhan | 10 |Implementação da funcionalidade de Importar lista de tarefas de arquivo TXT | Ok |
 | Kaio | 11 |Implementação da funcionalidade de pesquisar na lista de tarefas | Ok |
 | Nicolas | 12 |Implementação da funcionalidade de atribuir categorias as tarefas | Ok |
+| Bruno | 13 |Implementação ebibição de data e hora ao lado da tarefa| Ok |
 
 
 ---
+
 
 
 
